@@ -19,8 +19,8 @@ This is our mini-project for SC1015 using the [Titanic](https://www.kaggle.com/c
 2. Whether one of us, Jun Han, would be able to survive if he were onboard the Titanic.
 
 ## Code
-- 
-- 
+- [Data Extraction and Exploratory Data Analysis](https://github.com/CUSTEDLOL/titanic-survival/blob/main/Data_Extraction_EDA.ipynb)
+- [Machine Learning Models](https://github.com/CUSTEDLOL/titanic-survival/blob/main/Machine_Learning.ipynb)
 
 ## Models Used
 - Random Forest
