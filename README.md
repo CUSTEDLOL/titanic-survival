@@ -10,6 +10,8 @@ This is our mini-project for SC1015 using the [Titanic](https://www.kaggle.com/c
 3. Models Used
 4. Insights & Conclusion
 5. Learning Points
+6. Individual Contributions
+7. References
 
 ## Introduction & Problem Definition
 - The sinking of RMS Titanic in 1912 is perhaps the most infamous maritime disaster, with over 1,500 passengers and staff dying in the disaster. Hence, we wanted to find out:
