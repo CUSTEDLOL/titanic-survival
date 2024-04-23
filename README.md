@@ -41,7 +41,7 @@ This is our mini-project for SC1015 using the [Titanic](https://www.kaggle.com/c
 
 ## Individual Contributions
 - @jhthenub: Data preparation, exploratory data analysis
-- @CUSTEDLOL
+- @CUSTEDLOL: Binary Classification and Correlation
 - @j370: Machine learning, data driven insights
 
 ## References
