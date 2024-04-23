@@ -23,6 +23,14 @@ This is our mini-project for SC1015 using the [Titanic](https://www.kaggle.com/c
 - 
 
 ## Models Used
+- Random Forest
+- Decision Tree
+-	KNN
+-	Logistic Regression
+-	Naive Bayes
+-	Stochastic Gradient Decent
+-	Linear SVC
+-	Perceptron	
 
 ## Insights & Conclusion
 - The age, gender and fare paid by a passenger are the most important factors determining survivability onboard.
@@ -30,13 +38,11 @@ This is our mini-project for SC1015 using the [Titanic](https://www.kaggle.com/c
 
 ## Learning Points
 - Feature engineering in Data Cleaning to extract only the crucial information
-- 
-
 
 ## Individual Contributions
 - @jhthenub: Data preparation, exploratory data analysis
 - @CUSTEDLOL
-- @
+- @j370: Machine learning, data driven insights
 
 ## References
 - https://www.kaggle.com/c/titanic/overview
