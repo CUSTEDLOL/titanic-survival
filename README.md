@@ -37,6 +37,7 @@ This is our mini-project for SC1015 using the [Titanic](https://www.kaggle.com/c
 - Jun Han would unfortunately not survive if he were onboard the Titanic. However, if he were to be female, he would have survived.
 
 ## Learning Points
+- Data Exploration: Focused on understanding the distribution of variables (age, gender, passenger class, etc.), looked for missing data, or explore correlations between different factors
 - Feature engineering in Data Cleaning to extract only the crucial information
 
 ## Individual Contributions
