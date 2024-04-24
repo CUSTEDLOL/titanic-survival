@@ -44,6 +44,10 @@ The Titanic dataset contains non-linear relationships and interactions between f
 ## Learning Points
 - Data Exploration: Focused on understanding the distribution of variables (age, gender, passenger class, etc.), looked for missing data, or explore correlations between different factors
 - Feature engineering in Data Cleaning to extract only the crucial information
+- Machine learning model training as well as determining which is a better model
+- Model validation and finetuning
+- Interpretating the results and applying examples on the model
+- Visualisations so that readers are able to better visualise the processes
 
 ## Individual Contributions
 - Jun Han (@jhthenub): Data preparation, exploratory data analysis
