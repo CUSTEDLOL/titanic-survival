@@ -33,6 +33,7 @@ The sinking of RMS Titanic in 1912 is perhaps the most infamous maritime disaste
 -	Perceptron
 
 ![Prediction Scores](https://github.com/CUSTEDLOL/titanic-survival/assets/23294168/b0ef41d3-e1bb-43fe-ad21-04c9c780320d)
+
 The models were ordered according to their accuracy and we found that perceptron performed the worse whereas random forest performed the best.
 The Titanic dataset contains non-linear relationships and interactions between features that can be well captured by the random forest model.
 
