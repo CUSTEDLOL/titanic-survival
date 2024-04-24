@@ -46,9 +46,9 @@ The Titanic dataset contains non-linear relationships and interactions between f
 - Feature engineering in Data Cleaning to extract only the crucial information
 
 ## Individual Contributions
-- @jhthenub: Data preparation, exploratory data analysis
-- @CUSTEDLOL: Binary Classification and Correlation
-- @j370: Machine learning, data driven insights
+- Jun Han (@jhthenub): Data preparation, exploratory data analysis
+- Vishesh (@CUSTEDLOL): Binary Classification and Correlation
+- Jet (@j370): Machine learning, data driven insights
 
 ## References
 - https://www.kaggle.com/c/titanic/overview
